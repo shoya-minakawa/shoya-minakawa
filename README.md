@@ -10,7 +10,7 @@
   
 ### 使用したことのある言語・ツール  
   
-[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,python,r,vue,firebase,vscode,git,github,gitlab,unity,figma,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,python,r,vue,firebase,vscode,git,github,gitlab,unity,figma,latex)](https://skillicons.dev)
 
 
 
