@@ -1,4 +1,18 @@
-### Hi there 👋
+### プロフィール（2/11更新)
+名前 : 皆川 翔哉（みなかわ　しょうや）  
+大学 : 岩手大学 理工学部 システム創生工学科 知能・メディア情報コース 3年  
+研究室 : 張研究室  
+資格 : 普通自動車第一種運転免許（MT), TOEIC L&Rテスト 755点   
+アルバイト : くら寿司, GeekSalon メンター  
+趣味 : 音楽を聴くこと(主にK-POP)  
+好きな食べ物 : お寿司🍣  
+  
+  
+#
+
+
+
+
 
 <!--
 **shoya-minakawa/shoya-minakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
