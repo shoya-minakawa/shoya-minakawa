@@ -8,7 +8,9 @@
 好きな食べ物 : お寿司🍣  
   
   
-#
+###使用したことのある言語・ツール  
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,vue,firebase,vscode,git,github,gitlab,unity,figma)](https://skillicons.dev)****
 
 
 
